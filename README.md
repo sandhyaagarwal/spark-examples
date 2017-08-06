@@ -1,5 +1,5 @@
 # spark-examples
-Contains spark examples in Scala
+Contains spark examples in **Scala**
 
 * ## Difference between **map** and **flatMap** transformations
 
